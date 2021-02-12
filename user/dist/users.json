@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Léo",
+        "email": "leo@mail.fr",
+        "age": "21",
+        "playlist": [
+            { "title": "INTERSTELLAR" },
+            { "title": "SEUL SUR MARS" }
+        ],
+        "suggestion": [
+            { "title": "STAR WARS" },
+            { "title": "JEAN" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Charlotte",
+        "email": "leo@mail.fr",
+        "age": "21",
+        "playlist": [
+            { "title": "INTERSTELLAR" },
+            { "title": "SEUL SUR MARS" }
+        ],
+        "suggestion": [
+            { "title": "STAR WARS" },
+            { "title": "EUDE" }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Delphine",
+        "email": "leo@mail.fr",
+        "age": "21",
+        "playlist": [
+            { "title": "INTERSTELLAR" },
+            { "title": "TRUC" }
+        ],
+        "suggestion": [
+            { "title": "STAR WARS" },
+            { "title": "UN AUTRE" }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Eugene",
+        "email": "leo@mail.fr",
+        "age": "21",
+        "playlist": [
+            { "title": "INTERSTELLAR" },
+            { "title": "SEUL SUR MARS" }
+        ],
+        "suggestion": [
+            { "title": "MACHIN" },
+            { "title": "SIMPLE" }
+        ]
+    }
+]

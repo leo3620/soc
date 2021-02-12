@@ -1,0 +1,3 @@
+# Project exclude paths
+/catalogue/node_modules/
+/user/node_modules/
