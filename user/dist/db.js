@@ -6,10 +6,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.db = void 0;
 const mysql_1 = __importDefault(require("mysql"));
 const db = mysql_1.default.createConnection({
-    host: "localhost",
-    port: 3306,
+    host: "127.0.0.1",
+    port: 6603,
     user: "root",
-    password: "yolo?123456",
+    password: "yolo",
     database: "users"
 });
 exports.db = db;

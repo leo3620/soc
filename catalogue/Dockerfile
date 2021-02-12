@@ -11,4 +11,4 @@ EXPOSE 5000
 
 CMD [ "npm", "start" ]
 
-# docker build -t leo/users_api:v1 .
+# docker build -t leo/catalogue:v1 .

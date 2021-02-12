@@ -1,11 +1,12 @@
 import mysql from 'mysql';
 
 const db = mysql.createConnection({
-    host: "host.docker.internal",
-    port: 6603,
+    host: "mysql",
+    port: 3306,
     user: "root",
     password: "yolo",
-    database: "users"
+    database: "catalogue"
 });
+
 
 export {db};
